@@ -57,8 +57,8 @@
           "_name": "content5",
           "_anchor": "content5-2",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": "5",
+            "paddingBottom": "5",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/7apxeflmiew-2000x1304.jpg",
@@ -96,7 +96,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#000000",
             "bgColorRadio": false,
             "bgVideo": {
               "width": 1280,
@@ -131,8 +131,8 @@
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-4",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
